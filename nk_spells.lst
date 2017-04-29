@@ -38,7 +38,7 @@ SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mpcwebsit
 #
 #####Example
 
-#Teleport		CLASSES:Sorcerer,Wizard=5		DOMAINS:Travel=5		SCHOOL:Conjuration	SUBSCHOOL:Teleportation		TYPE:Arcane.Divine	COMPS:V		CASTTIME:1 standard action		RANGE:Personal and touch	TARGETAREA:You and touched objects or other touched willing creatures		DURATION:Instantaneous		SAVEINFO:None and Will negates (object)		SPELLRES:No and Yes (object)		DESC:Instantly transports you as far as (CASTERLEVEL*100) miles.		SOURCEPAGE:SpellsT-Z	ITEM:Potion
+Yomani Healing		CLASSES:Sorcerer,Wizard=1		DOMAINS:		SCHOOL:Conjuration	SUBSCHOOL:Creation		TYPE:Arcane.Divine	COMPS:V		CASTTIME:1 standard action		RANGE:Close		TARGETAREA:One creature		DURATION:(4+CASTERLEVEL/2) rounds		SAVEINFO:Will negates		SPELLRES:Yes		DESC:Det ger fast healing 2 i (4 + caster level/2) rundor. Då du i stort sätt använder (negative) energi från Yomu (vilket är motsatsen till världssjälen, som förstör istället för att skapa) fyller det dom du castar det på med sån intensitet att dom blir fatigued i 2 rundor efteråt.		SOURCEPAGE:SpellsT-Z	ITEM:Potion
 
 #####
 #Teleport is the name of the spell. It will appear in the spells list on PCGen's Spells tab and will be used if a spell is

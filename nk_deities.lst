@@ -29,7 +29,7 @@ SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mpcwebsit
 #											
 #####Example											
 											
-Nebuchadnezzar		"DOMAINS:Law,Artifice,Trade|PREALIGN:LE,LN,NE"		DESC:God of the Legalistic		SYMBOL: A Contract		DEITYWEAP:Sword Cane		ALIGN:LE	PANTHEON:
+Nebuchadnezzar		"DOMAINS:Artifice,Knowledge,Nobility,Trade|PREALIGN:LE,LN,NE"		DESC:God of the Legalistic		SYMBOL: A Contract		DEITYWEAP:Sword Cane		ALIGN:LE	PANTHEON:
 											
 #####											
 "#The first field is the Deity Name, this is a required field and does not have a tag."											
