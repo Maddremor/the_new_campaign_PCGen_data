@@ -1,16 +1,16 @@
 # CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
-CAMPAIGN:Morgar&Co
+CAMPAIGN:Nya Kanpanjen
 GAMEMODE:Pathfinder
 RANK:9
 GENRE:Fantasy
 BOOKTYPE:Homebrew
 SETTING:Homebrew
 TYPE:Homebrew.PathfinderHomebrew
-PUBNAMELONG:Morgar&Co
-PUBNAMESHORT:M&Co
+PUBNAMELONG:Nya Kanpanjen
+PUBNAMESHORT:NK
 #PUBNAMEWEB:http://www.mcowebsite.com
-SOURCELONG:Morgar&Co Data
-SOURCESHORT:Nya Kampanjen Data
+SOURCELONG:Nya Kanpanjen Data
+SOURCESHORT:NK Data
 SOURCEWEB:
 SOURCEDATE:2008-01
 ISOGL:NO
