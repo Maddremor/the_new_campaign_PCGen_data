@@ -1,1 +1,1 @@
-# PCGen data for "Nya Kampanjen".
+PCGen data for "Nya Kampanjen".
