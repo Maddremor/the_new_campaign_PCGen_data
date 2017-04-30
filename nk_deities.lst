@@ -14,7 +14,20 @@ SOURCELONG:Nya Kampanjen	SOURCESHORT:NK
 #	DOMAINS:____|PREALIGN:
 
 
-Nebuchadnezzar		NAMEISPI:YES		DOMAINS:Artifice,Knowledge,Nobility,Travel|PREALIGN:LN,LE,NE		DESC:God of Crafting, Commerce and Contracts		FACT:SYMBOL|A horned goat skull		DEITYWEAP:Sword Cane		ALIGN:LE
 
-Kyrie				NAMEISPI:YES		DOMAINS:Darkness,Fire,Repose|PREALIGN:LG,NG,TN,CG			DESC:Guardian Angel of Mankind						FACT:SYMBOL|A black flame			DEITYWEAP:Estoc				ALIGN:NG
 
+
+
+Ai					NAMEISPI:YES		DOMAINS:Darkness,Fire,Repose|PREALIGN:TN,CN							DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:TN
+
+Kyrie				NAMEISPI:YES		DOMAINS:Darkness,Fire,Repose|PREALIGN:LG,NG,TN,CG					DESC:Guardian Angel of Mankind						FACT:SYMBOL|A black flame					DEITYWEAP:Estoc				ALIGN:NG
+
+Bartholomeus		NAMEISPI:YES		DOMAINS:Darkness,Fire,Repose|PREALIGN:TN,CN							DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:TN
+
+Janna				NAMEISPI:YES		DOMAINS:Darkness,Fire,Repose|PREALIGN:TN,CN							DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:TN
+
+Rhox				NAMEISPI:YES		DOMAINS:Darkness,Fire,Repose|PREALIGN:TN,CN							DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:TN
+
+Miasma				NAMEISPI:YES		DOMAINS:Darkness,Fire,Repose|PREALIGN:TN,CN							DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:TN
+
+Nebuchadnezzar		NAMEISPI:YES		DOMAINS:Artifice,Knowledge,Nobility,Travel|PREALIGN:LN,LE,NE		DESC:God of Crafting, Commerce and Contracts		FACT:SYMBOL|A horned goat skull				DEITYWEAP:Sword Cane		ALIGN:LE
