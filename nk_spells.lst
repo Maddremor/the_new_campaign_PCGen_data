@@ -1,5 +1,4 @@
-# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
-SOURCELONG:My Pathfinder Campaign	SOURCESHORT:NK	SOURCEWEB:http://www.mpcwebsite.com	SOURCEDATE:2008-01
+SOURCELONG:Nya Kampanjen	SOURCESHORT:NK
 
 #
 # Blank Spell Template
@@ -24,45 +23,7 @@ SOURCELONG:My Pathfinder Campaign	SOURCESHORT:NK	SOURCEWEB:http://www.mpcwebsite
 #	DESC:
 #	TEMPBONUS:ANYPC|x|y
 
-#insert your data here
+Yomani Healing		CLASSES:Cleric,Magus,Sorcerer,Witch,Wizard=1		DESCRIPTOR:Evil		SCHOOL:Conjuration		SUBSCHOOL:Healing		TYPE:Arcane.Divine		COMPS:V, S		CASTTIME:1 standard action		RANGE:Close		TARGETAREA:One creature		DURATION:(4+CASTERLEVEL/2) rounds		SAVEINFO:Will negates		SPELLRES:Yes		DESC:Channeling the profane energies of Yomu, the caster grants the target Fast Healing 2. The target also suffers from feedback in the form of fatigue for 2 rounds.		ITEM:Potion
 
-#Every line that starts with a '#' is a comment. You may want to remove these comments, if you use this file to set up
-#your own data. Remember not to put the '#' at the start of your own data, as PCGen would see it as a comment only.
-#
-#When Running PCGen, you can select "Help > Documentation > List Files > List File Tag Index > Spell File tags" to find
-#out how the tags in the spells file work. Some of the tags used here are global tags. You will see an alphabetical
-#listing of all PCGen tags to the left of the documentation window. You can find the global tags there as well.
-#
-#To learn the basics of coding a spell, you can also visit "Help > Documentation > List Files > LST File Class > Lesson 7"
-#
-#
-#####Example
+Nebuchadnezzar's Truthtelling		KEY:Nebuchadnezzar's Truthtelling		CLASSES:Cleric,Inquisitor,Paladin=1		SCHOOL:Enchantment		SUBSCHOOL:Compulsion		DESCRIPTOR:Mind-Affecting		COMPS:V, S, DF		CASTTIME:1 standard action		RANGE:Touch		ITEM:POTION		TARGETAREA:Creature touched		DURATION:(CASTERLEVEL) minutes		SAVEINFO:Will negates		SPELLRES:Yes		DESC:This spell functions identically to the spell zone of truth, except as noted above. The target mementarily takes on the semblance of a being of perfect order so that all who can see the target know it is affected by the spell. This divine guise flickers over the target for only an instant and does not allow it to pass as a member of a different race.
 
-Yomani Healing		CLASSES:Cleric,Magus,Sorcerer,Witch,Wizard=1		DESCRIPTOR:Evil		DOMAINS:		SCHOOL:Conjuration	SUBSCHOOL:Healing		TYPE:Arcane.Divine	COMPS:V, S		CASTTIME:1 standard action		RANGE:Close		TARGETAREA:One creature		DURATION:(4+CASTERLEVEL/2) rounds		SAVEINFO:Will negates		SPELLRES:Yes		DESC:Det ger fast healing 2 i (4 + caster level/2) rundor. Då du i stort sätt använder (negative) energi från Yomu (vilket är motsatsen till världssjälen, som förstör istället för att skapa) fyller det dom du castar det på med sån intensitet att dom blir fatigued i 2 rundor efteråt.		SOURCEPAGE:SpellsT-Z	ITEM:Potion
-
-#####
-#Teleport is the name of the spell. It will appear in the spells list on PCGen's Spells tab and will be used if a spell is
-#added by use of the SPELLS tag. Every spell must have a name.
-#
-#The CLASSES tag indicates that this spell is the indicated level for the named class. It will appear in most spells, unless
-#the spell is for some reason not associated with a class.
-#
-#The DOMAINS tag indicates that this spell is the indicated level for the named domain. It is only used with spells that
-#belong to a domain.
-#
-#The SCHOOL tag lists the Schools the spell belongs to and is used for specialist wizards to determine their favored schools
-#bonus spells. It should be used if the spell belongs to a school (which almost always is the case).
-#
-#The SUBSCHOOL tag lists the Sub-Schools the spell belongs to and is also used for specialist wizards to determine their
-#favored schools bonus spells. You can usually find it in the books in parentheses after the School. If it exists, it should
-#be used.
-#
-#The TYPE tag indicates what "types" are associated with the spell. Every spell should have it.
-#
-#COMPS, CASTTIME, RANGE, TARGETAREA, DURATION, SAVEINFO, SPELLRES, and DESC are the tags that actually describe the spell.
-#Most if not all of them will be used in every spell.
-#
-#The SOURCEPAGE tag can be used to hold a reference to where you can find the spell. This will be displayed in PCGen and on
-#the output sheet.
-#
-#The ITEM tag tells PCGen what types of items this spell can be used to make (Potions, wands, wondrous items, etc).

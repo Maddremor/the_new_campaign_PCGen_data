@@ -1,40 +1,19 @@
-# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00											
-SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mpcwebsite.com	SOURCEDATE:2008-01								
-											
-# Use only in 6.05.x or higher.											
-#XXX											
-#	KEY:Group ~ XXX										
-#	ALIGN:										
-#	SORTKEY:1										
-#	FACT:Title|										
-#	FACT:Symbol|										
-#	FACT:Worshippers|										
-#	FACT:Appearance|										
-#	FACTSET:Pantheon|Group										
-#	FACTSET:Race|										
-#	DESC:										
-#	DOMAINS:____|PREALIGN:										
+SOURCELONG:Nya Kampanjen	SOURCESHORT:NK
 
 
-Nebuchadnezzar		NAMEISPI:YES		DOMAINS:Artifice,Knowledge,Nobility,Travel|PREALIGN:LN,LE,NE		DESC:God of contracts		SYMBOL: A Contract		DEITYWEAP:Sword Cane		ALIGN:LE
+#	KEY:Group ~ XXX
+#	ALIGN:
+#	SORTKEY:1
+#	FACT:Title|
+#	FACT:Symbol|
+#	FACT:Worshippers|
+#	FACT:Appearance|
+#	FACTSET:Pantheon|Group
+#	FACTSET:Race|
+#	DESC:
+#	DOMAINS:____|PREALIGN:
 
 
-#####											
-#The first field is the Deity Name, this is a required field and does not have a tag."											
-#											
-#The DOMAINS tag is a list of domains that the deity grants to it's divine spell casting followings. The domain name MUST											
-#match the domain names listed in the domain list file.											
-#To limit alignments allowed for classes (such as cleric) to gain domains, use PREALIGN on the DOMAINS tag."											
-#											
-#The DESC tag is used for a quick description of the deity.											
-#											
-#The SYMBOL tag is used on the output sheet to display what the holy symbol is for this deity.											
-#											
-#The DEITYWEAP is holding a list of the deity's favored weapon(s). The Weapon name MUST match exactly what is listed in the											
-#weapon proficiencies list file.											
-#											
-#The ALIGN tag holds the two letter abbreviated alignment of the deity itself.											
-#											
-#The PANTHEON tag is used to specify what pantheon the deity belongs to.											
-#											
-#The SOURCEPAGE tag can be used to hold a reference to where you can find the deity. This will be displayed in PCGen.											
+Nebuchadnezzar		NAMEISPI:YES		DOMAINS:Artifice,Knowledge,Nobility,Travel|PREALIGN:LN,LE,NE		DESC:God of Crafting, Commerce and Contracts		FACT:SYMBOL|A horned goat skull		DEITYWEAP:Sword Cane		ALIGN:LE
+
+
