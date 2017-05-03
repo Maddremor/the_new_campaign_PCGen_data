@@ -16,32 +16,31 @@ SOURCEDATE:2017-04-30
 ISOGL:NO
 COPYRIGHT:MIT Licence
 
-#INFOTEXT:To display an Information in the Source Info section on the Source Materials tab, replace the text after 'INFOTEXT:' with your text and remove the '#'
 
-DATACONTROL:nk__datacontrols.lst
-ALIGNMENT:nk__align.lst
-STAT:nk__stats.lst
-SAVE:nk__saves.lst
+#DATACONTROL:nk__datacontrols.lst
+#ALIGNMENT:nk__align.lst
+#STAT:nk__stats.lst
+#SAVE:nk__saves.lst
 
 
-ABILITY:nk_abilities.lst
+#ABILITY:nk_abilities.lst
 ABILITY:nk_abilities_class.lst
-ABILITYCATEGORY:nk_abilitycategories.lst
-BIOSET:nk_biosettings.lst
+#ABILITYCATEGORY:nk_abilitycategories.lst
+#BIOSET:nk_biosettings.lst
 CLASS:nk_classes.lst
 COMPANIONMOD:nk_companionmods.lst
 DEITY:nk_deities.lst
 DOMAIN:nk_domains.lst
-EQUIPMENT:nk_equip_arms.lst
-EQUIPMENT:nk_equip_general.lst
-EQUIPMENT:nk_equip_armor.lst
-EQUIPMOD:nk_equipmods.lst
+#EQUIPMENT:nk_equip_arms.lst
+#EQUIPMENT:nk_equip_general.lst
+#EQUIPMENT:nk_equip_armor.lst
+#EQUIPMOD:nk_equipmods.lst
 ABILITY:nk_feats.lst
-KIT:nk_kits.lst
+#KIT:nk_kits.lst
 LANGUAGE:nk_languages.lst
-ARMORPROF:nk_profs_armor.lst
-SHIELDPROF:nk_profs_shield.lst
-WEAPONPROF:nk_profs_weapon.lst
+#ARMORPROF:nk_profs_armor.lst
+#SHIELDPROF:nk_profs_shield.lst
+#WEAPONPROF:nk_profs_weapon.lst
 SKILL:nk_skills.lst
 SPELL:nk_spells.lst
 
@@ -51,10 +50,3 @@ SPELL:nk_spells.lst
 #HIDETYPE:SKILL|Science
 #HIDETYPE:FEAT|Leadership
 
-#Remove the '#' in front of those lines referring to files that you actually want to load
-#Remember to set the GAMEMODE to the one you really want.
-#Options in the Open Source data are 35e, Modern, Pathfinder, Darwins_World_2.
-
-#If you use this framework to set up a dataset of your own, then you may want to rename the folder and files to something
-#different. Otherwise if you ever should install a newer version of PCGen into your existing directory or needed to re-install
-#your existing installation of PCGen, your changes would get overwritten and thus be lost.

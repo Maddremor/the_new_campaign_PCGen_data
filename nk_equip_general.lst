@@ -1,3 +1,0 @@
-#	#Name	Type		COST	WEIGHT	NUMPAGES		PAGEUSAGE		CONTAINS			
-	Lorebook	TYPE:Goods.Tools.Spellbook.Magic.Wondrous.Container		COST:0	WT:1	NUMPAGES:65536		PAGEUSAGE:1		CONTAINS:*UNLIM|Paper=UNLIM|Scroll=UNLIM			SPROP:The book that can contain all the knowledge in the world.
-#	Leron's Mask												
