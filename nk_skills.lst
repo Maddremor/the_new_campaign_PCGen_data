@@ -1,5 +1,11 @@
-# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
-SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mpcwebsite.com	SOURCEDATE:2008-01
+SOURCELONG:Nya Kampanjen	SOURCESHORT:NK
+
+
+
+
+
+
+
 
 # Pathfinder version of Skills and how we handle Skill Focus
 #Skill Blank
@@ -12,27 +18,10 @@ SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mpcwebsit
 #	BONUS:SKILL|Skill Blank|3|TYPE=SkillFocus|PREABILITY:1,CATEGORY=FEAT,Skill Focus (Skill Blank)
 #	BONUS:SKILL|Skill Blank|6|TYPE=SkillFocus|PREABILITY:1,CATEGORY=FEAT,Skill Focus (Skill Blank)|PRESKILL:1,Skill Blank=10
 
-
 # Example of Acrobatics
 #Acrobatics		KEYSTAT:DEX		ACHECK:YES		TYPE:Dexterity.Base	SOURCEPAGE:p.87	BONUS:SKILL|Acrobatics|3|TYPE=ClassSkill|PRECSKILL:1,Acrobatics|PRESKILL:1,Acrobatics=1
 #Acrobatics.MOD	BONUS:SKILL|Acrobatics|3|TYPE=SkillFocus|PREABILITY:1,CATEGORY=FEAT,Skill Focus (Acrobatics)
 #Acrobatics.MOD	BONUS:SKILL|Acrobatics|6|TYPE=SkillFocus|PREABILITY:1,CATEGORY=FEAT,Skill Focus (Acrobatics)|PRESKILL:1,Acrobatics=10
-
-
-
-#insert your data here
-
-#Every line that starts with a '#' is a comment. You may want to remove these comments, if you use this file to set up
-#your own data. Remember not to put the '#' at the start of your own data, as PCGen would see it as a comment only.
-#
-#When Running PCGen, you can select "Help > Documentation > List Files > List File Tag Index > Skill File tags" to find
-#out how the tags in the skills file work. Some of the tags used here are global tags. You will see an alphabetical
-#listing of all PCGen tags to the left of the documentation window. You can find the global tags there as well.
-#
-#
-#
-#
-#####Example
 
 #Sleight of Hand		KEYSTAT:DEX		USEUNTRAINED:NO	ACHECK:YES		TYPE:Dexterity		BONUS:SKILL|Sleight of Hand|2|PRESKILL:1,Bluff=5|TYPE=Synergy.STACK		SOURCEPAGE:SkillsII
 

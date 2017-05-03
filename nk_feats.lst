@@ -1,19 +1,6 @@
-# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
-SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mpcwebsite.com	SOURCEDATE:2008-01
+SOURCELONG:Nya Kampanjen	SOURCESHORT:NK
 
-#insert your data here
 
-#Every line that starts with a '#' is a comment. You may want to remove these comments, if you use this file to set up
-#your own data. Remember not to put the '#' at the start of your own data, as PCGen would see it as a comment only.
-#
-#When Running PCGen, you can select "Help > Documentation > List Files > List File Tag Index > Feat File tags" to find
-#out how the tags in the feats file work. Some of the tags used here are global tags. You will see an alphabetical
-#listing of all PCGen tags to the left of the documentation window. You can find the global tags there as well.
-#
-#
-#
-#
-#####1st Example
 
 #	Skill Focus		CATEGORY:FEAT	TYPE:General.SkillFocus	DESC:You are particularly adept at your chosen skill.	STACK:NO	MULT:YES	CHOOSE:SKILL|TYPE=Charisma|TYPE=Dexterity|TYPE=Intelligence|TYPE=Strength|TYPE=Wisdom	SOURCEPAGE:p.134	BENEFIT:You get a +3 bonus on all checks involving the chosen skill. If you have 10 or more ranks in that skill, this bonus increases to +6.
 # The bonus to the skill is in the Skill File, however, you can bonus the skill directly by adding the following:
