@@ -18,16 +18,16 @@ SOURCELONG:Nya Kampanjen	SOURCESHORT:NK
 
 
 
-Ai					NAMEISPI:YES		DOMAINS:Law,Good|PREALIGN:LG,NG,LN						DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:LG
+Ai					NAMEISPI:YES		DOMAINS:Law,Good|PREALIGN:LG,NG,LN									DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:LG
 
 Kyrie				NAMEISPI:YES		DOMAINS:Darkness,Fire,Repose|PREALIGN:LG,NG,TN,CG					DESC:Guardian Angel of Mankind						FACT:SYMBOL|A black flame					DEITYWEAP:Estoc				ALIGN:NG
 
-Bartholomeus		NAMEISPI:YES		DOMAINS:Chaos,Good|PREALIGN:NG,CG,CN						DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:CG
+Bartholomeus		NAMEISPI:YES		DOMAINS:Chaos,Good|PREALIGN:NG,CG,CN								DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:CG
 
-Janna				NAMEISPI:YES		DOMAINS:Chaos|PREALIGN:CG,TN,CN,CE					DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:CN
+Janna				NAMEISPI:YES		DOMAINS:Chaos|PREALIGN:CG,TN,CN,CE									DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:CN
 
-Rhox				NAMEISPI:YES		DOMAINS:Chaos,Evil|PREALIGN:CN,NE,CE						DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:CE
+Rhox				NAMEISPI:YES		DOMAINS:Chaos,Evil|PREALIGN:CN,NE,CE								DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:CE
 
-Miasma				NAMEISPI:YES		DOMAINS:Evil|PREALIGN:TN,LE,NE,CE					DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:NE
+Miasma				NAMEISPI:YES		DOMAINS:Evil|PREALIGN:TN,LE,NE,CE									DESC:A god											FACT:SYMBOL|A post-it note labeled WIP		DEITYWEAP:Dagger			ALIGN:NE
 
 Nebuchadnezzar		NAMEISPI:YES		DOMAINS:Artifice,Knowledge,Nobility,Travel|PREALIGN:LN,LE,NE		DESC:God of Crafting, Commerce and Contracts		FACT:SYMBOL|A horned goat skull				DEITYWEAP:Sword Cane		ALIGN:LE
