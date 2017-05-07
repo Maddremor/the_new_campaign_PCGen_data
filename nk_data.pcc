@@ -1,4 +1,3 @@
-# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
 CAMPAIGN:Nya Kampanjen
 GAMEMODE:Pathfinder
 RANK:9
@@ -31,7 +30,7 @@ CLASS:nk_classes.lst
 COMPANIONMOD:nk_companionmods.lst
 DEITY:nk_deities.lst
 DOMAIN:nk_domains.lst
-#EQUIPMENT:nk_equip_arms.lst
+EQUIPMENT:nk_equip_misc.lst
 #EQUIPMENT:nk_equip_general.lst
 #EQUIPMENT:nk_equip_armor.lst
 #EQUIPMOD:nk_equipmods.lst
