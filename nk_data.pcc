@@ -24,6 +24,7 @@ COPYRIGHT:MIT Licence
 
 #ABILITY:nk_abilities.lst
 ABILITY:nk_abilities_class.lst
+ABILITY:nk_abilities_faith.lst
 #ABILITYCATEGORY:nk_abilitycategories.lst
 #BIOSET:nk_biosettings.lst
 CLASS:nk_classes.lst
