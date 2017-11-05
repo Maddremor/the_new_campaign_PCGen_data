@@ -4,13 +4,14 @@ SOURCELONG:Nya Kampanjen	SOURCESHORT:NK
 
 
 
-Semanti			TYPE:Spoken.Written.Read	
-Arcani			TYPE:Spoken.Written.Read	
-Vindir			TYPE:Spoken.Written.Read	
-Aurian			TYPE:Spoken.Written.Read	
-Yoman			TYPE:Spoken.Written.Read	
-Shitori			TYPE:Spoken.Written.Read	
-Taejin			TYPE:Spoken.Written.Read	
+Semanti				TYPE:Spoken.Written.Read
+Arcani				TYPE:Spoken.Written.Read
+Vindir				TYPE:Spoken.Written.Read
+Aurani				TYPE:Spoken.Written.Read
+Yoman				TYPE:Spoken.Written.Read
+Shitori				TYPE:Spoken.Written.Read
+Taejin				TYPE:Spoken.Written.Read
+Sign Language		TYPE:Spoken
 
 #####
 #Example
